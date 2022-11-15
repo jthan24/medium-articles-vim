@@ -1,4 +1,4 @@
-# dont_die_attempt_vi
+# dont_die_attempt_iv
 
 For check this repository you can read first this https://medium.com/@jthan24/learn-vim-and-dont-die-in-the-attempt-iv-char-jump-16daf5352944
 
